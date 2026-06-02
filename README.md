@@ -96,8 +96,8 @@ You can also check connectivity between the PCs on different networks to ensure 
 •	Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify network connective
  
 # OUTPUT
-<img width="1043" height="609" alt="image" src="https://github.com/user-attachments/assets/e424f680-4500-4bb0-908a-da4585b35950" />
-<img width="993" height="588" alt="image" src="https://github.com/user-attachments/assets/93d3b605-e719-4215-ad0b-ce083de736c5" />
+<img width="1128" height="1600" alt="WhatsApp Image 2026-06-02 at 5 45 17 PM (1)" src="https://github.com/user-attachments/assets/1394cb92-c006-4413-bb59-5acc2f25aaa5" />
+<img width="3329" height="2107" alt="WhatsApp Image 2026-06-02 at 5 45 18 PM" src="https://github.com/user-attachments/assets/66c5ed5c-deb0-4e3d-8eb3-2d7f86d04ec4" />
 
 
 
